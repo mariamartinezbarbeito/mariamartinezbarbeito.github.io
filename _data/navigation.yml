@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Home"
-    url: /
   - title: "About me"
-    url: /about
+    url: /
   - title: "Publications"
     url: /publications
   - title: "Outreach"
     url: /outreach
   - title: "Projects"
     url: /projects
+  - title: "Blog"
+    url: /blog
