@@ -64,6 +64,7 @@ body {
       margin-right: 0;
       width: 100%;
       clear: both;
+      text-align: justify; //I ADDED THIS!!
     }
   }
 }
@@ -225,6 +226,7 @@ body {
 
     .page__title {
       font-size: $type-size-2;
+      // text-align: right; // ADDED THIS
 
       @include breakpoint($small) {
         font-size: $type-size-1;

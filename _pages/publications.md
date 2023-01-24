@@ -9,7 +9,7 @@ permalink: /publications
 
 <ul>
   <li>
-  M. Martínez-Barbeito, D. Gomila, & P. Colet. (2022). Dynamical Model for Power Grid Frequency Fluctuations: Application to Islands with High Penetration of Wind Generation. <em>Accepted for publication</em>. 
+  M. Martínez-Barbeito, D. Gomila, & P. Colet. (2023). Dynamical Model for Power Grid Frequency Fluctuations: Application to Islands with High Penetration of Wind Generation. <em>IEEE Transactions on Sustainable Energy, p. 1-10</em>. DOI: 10.1109/TSTE.2022.3231975. <a href="https://ieeexplore.ieee.org/document/10015191" class="far fa-file-alt"></a> 
   </li>
   <li>
   M. Martínez-Barbeito, D. Gomila, & P. Colet. (2021). Data analysis of frequency fluctuations in the Balearic grid before and after coal closure. <em>ENERGY 2021, The Eleventh International Conference on Smart Grids, Green Communications and IT Energy-aware Technologies, 2021, p. 13-18</em>. <a href="https://www.thinkmind.org/articles/energy_2021_2_10_38010.pdf" class="far fa-file-alt"></a> 
