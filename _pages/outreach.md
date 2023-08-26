@@ -5,7 +5,7 @@ permalink: /outreach
 # author_profile: true
 ---
 
-<!-- This is my outreach page. -->
+<!-- This is my outreach page -->
 
 <div class="all-timelines">
   <!--SINGLE TIMELINE-->
@@ -13,7 +13,7 @@ permalink: /outreach
     <div class="timeline-blank"></div>
     <div class="timeline-text d-flex-2">
       <span>
-        <h6>September 2021</h6> <br> European Researchers Night: <em>speed dating</em>.
+        <h6>May 23, 2023</h6> <br> Pint of Science ES: <br><a href="https://pintofscience.es/event/nuestra-sociedad-grafos-borrachos-red-electrica-y-flamenco">Detrás del enchufe: cómo funciona la red eléctrica</a>.
       </span>
       <div class="t-square"></div>
     </div>
@@ -23,7 +23,17 @@ permalink: /outreach
     <div class="timeline-blank"></div>
     <div class="timeline-text d-flex-2">
       <span>
-        <h6>February 2021 </h6> <br> International Day of Women and Girls in Science: <em>speed dating</em>.
+        <h6>September 24, 2021</h6> <br> European Researchers Night: <a href="https://ifisc.uib-csic.es/es/events/seminars/nit-de-la-recerca-2021/"><em>speed dating</em></a>.
+      </span>
+      <div class="t-square"></div>
+    </div>
+  </div>
+  <!--SINGLE TIMELINE-->
+  <div class="single-timeline d-flex-2">
+    <div class="timeline-blank"></div>
+    <div class="timeline-text d-flex-2">
+      <span>
+        <h6>February 8, 2020 </h6> <br> International Day of Women and Girls in Science: <br><a href="https://11fbalears.org/es/activitats-2020/cites-rapides-amb-cientifiques/"><em>speed dating</em></a>.
       </span>
       <div class="t-square"></div>
     </div>

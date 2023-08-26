@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "María Martínez-Barbeito"
+title                    : "María Martínez Barbeito"
 title_separator          : "-"
 subtitle                 : # "Welcome to my personal website!" # site tagline that appears below site title in masthead
-name                     : "María Martínez-Barbeito"
+name                     : "María Martínez Barbeito"
 description              : "This is my personal website."
 url                      : "https://mariamartinezbarbeito.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "María Martínez-Barbeito"
+  name             : "María Martínez Barbeito"
   avatar           : "/assets/images/profile_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD candidate at IFISC"
   location         : "Mallorca (Spain)"
