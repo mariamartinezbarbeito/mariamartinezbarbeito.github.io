@@ -10,6 +10,9 @@ permalink: /research
 <h5>Publications</h5>
 <ul>
   <li>
+  M. Martínez-Barbeito, D. Gomila, J. Fritzsch, P. Jacquod, & P. Colet. (2023). Transmission grid stability with large scale power flows due to renewables. <em>arXiv preprint</em>. arXiv:2311.177095. <a href="https://arxiv.org/pdf/2311.17709.pdf" class="far fa-file-alt"></a> 
+  </li>
+  <li>
   M. Martínez-Barbeito, D. Gomila, & P. Colet. (2023). Dynamical Model for Power Grid Frequency Fluctuations: Application to Islands with High Penetration of Wind Generation. <em>IEEE Transactions on Sustainable Energy, p. 1-10</em>. DOI: 10.1109/TSTE.2022.3231975. <a href="https://ieeexplore.ieee.org/document/10015191" class="far fa-file-alt"></a> 
   </li>
   <li>
