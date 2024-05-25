@@ -10,6 +10,12 @@ permalink: /research
 <h5>Publications</h5>
 <ul>
   <li>
+  M. Martínez-Barbeito, D. Gomila, and P. Colet. (2024). Effects of a high share of solar generation on the electrical frequency fluctuations of an island connected with a HVDC link. <em>In preparation</em>.
+  </li>
+  <li>
+  D. Gomila, B.A. Carreras, J.M. Reynolds-Barredo, M. Martínez-Barbeito, P. Colet, & O. Gomis-Bellmunt. (2024). Reducing blackout risk by segmenting the European power grid with HVDC lines. <em>Submitted</em>.
+  </li>
+  <li>
   M. Martínez-Barbeito, D. Gomila, J. Fritzsch, P. Jacquod, & P. Colet. (2023). Transmission grid stability with large scale power flows due to renewables. <em>arXiv preprint</em>. arXiv:2311.177095. <a href="https://arxiv.org/pdf/2311.17709.pdf" class="far fa-file-alt"></a> 
   </li>
   <li>
@@ -30,6 +36,7 @@ permalink: /research
 
 <h5>Other talks</h5>
 <ul>
+  <li> Transmission grid stability with large scale power flows due to renewables. IFISC. February 2, 2024.</li>
   <li> Frequency fluctuations and stability of power grids with a large renwables penetration ratio. <em>Workshop on Power Grid Dynamics</em>. IFISC. April 20-21, 2023.</li>
   <li> Balearic power grid stability in scenarios with large photovoltaic generation. IFISC. February 2, 2023. </li>
   <li> Data analysis of frequency fluctuations in the Balearic grid before and after coal closure. IFISC. February 1, 2022. </li>
