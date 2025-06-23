@@ -4,11 +4,7 @@ main:
   #   url: /
   - title: "About me"
     url: /about
-  - title: "Research"
-    url: /research
+  - title: "PhD journey"
+    url: /phd
   - title: "Outreach"
     url: /outreach
-  # - title: "Projects"
-  #   url: /projects
-  # - title: "Blog"
-  #   url: /blog

@@ -81,7 +81,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "mariamartinz13"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -106,16 +106,16 @@ analytics:
 author:
   name             : "María Martínez Barbeito"
   avatar           : "/assets/images/profile_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD candidate at IFISC"
+  bio              : "PhD in Physics"
   location         : "Mallorca (Spain)"
   #email            : maria@ifisc.uib-csic.es
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:martinezbarbeitomaria@gmail.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mariamartinz13"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/mariamartinz13"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=5us7cmgAAAAJ&hl=es&oi=ao"
@@ -125,9 +125,9 @@ author:
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/mariamartinezbarbeito"
-    - label: "GitLab"
-      icon: "fab fa-gitlab"
-      url: "https://gitlab.ifisc.uib-csic.es/power-grid/f90model/"
+    # - label: "GitLab"
+    #   icon: "fab fa-gitlab"
+    #   url: "https://gitlab.ifisc.uib-csic.es/power-grid/f90model/"
 
 
 # Site Footer
