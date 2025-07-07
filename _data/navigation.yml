@@ -4,7 +4,9 @@ main:
   #   url: /
   - title: "About me"
     url: /about
-  - title: "PhD journey"
+  - title: "PhD"
     url: /phd
   - title: "Outreach"
     url: /outreach
+  - title: "Sports"
+    url: /sports

@@ -1,6 +1,6 @@
 ---
 # layout: single
-title: "My PhD journey"
+title: " "
 permalink: /phd
 # author_profile: true
 ---
@@ -59,6 +59,14 @@ In September 2024, I successfully defended my [PhD thesis](https://ifisc.uib-csi
 <ul>
   <li> Interplay of inertia and damping in power grids. <em>XXIII Congreso de Física Estadística, FISES 2023.</em> Pamplona (Spain). October 25-27, 2023. </li>
   <li> Effects of high penetration of wind power in the frequency fluctuations of Gran Canaria's power grid. <em>XXIII Congreso de Física Estadística, FISES 2022.</em> Zaragoza (Spain). May 12-14, 2022. </li>
+</ul>
+
+
+<h5>Workshops/Schools</h5>
+
+<ul>
+  <li> <em>Winter Workshop on Complex Systems 2024, WWCS 2024.</em> Catalan Pyrenees (Spain). Jan 21-26, 2024. </li>
+  <li> <em>8th Summer School on Smart Grid: sustainable electrification of transportation and buildings in the grid undergoing decarbonization.</em>  University of Salerno. Salerno (Italy). Jun 19-22, 2023. </li>
 </ul>
 
 <h5>Achievements</h5>
