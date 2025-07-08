@@ -1,13 +1,11 @@
 ---
 # layout: single
-title: Sports
-permalink: /sports
+title: Sports competitions
+permalink: /interests/sports
 # author_profile: true
 ---
 
-I enjoy leading an active lifestyle so I'm sharing some of my sports achievements here because they're a part of who I am — and something I'm very proud of.
-Below are some of my recent challenges.
-
+Over the past few years, I've taken part in some sports competitions. They've become a fun and rewarding way to stay active, set goals, and meet people who share the same drive. Am I fast? No. Am I stubborn enough to keep signing up for these? Absolutely.
 
 
 <!-- Used ChatGPT for this: -->
@@ -105,29 +103,11 @@ Below are some of my recent challenges.
     </p>
   </li>
 
-
-
-
-
   <li>
     <time datetime="2024-03-17">17-03-2024</time>
     <p><a href="https://www.elitechip.net/index.php?zwshow=compdet&idcomp=7200068&zwlng=es" target="_blank"><b>Duatló de Llucmajor - Ct de Balears 2024</b></a>
     <br>
     Duathlon. Sprint distance - solo race.
-    </p>
-  </li>
-
-
-  <li>
-    <time datetime="2023-04-03">03-04-2023</time>
-    <p><a href="https://gl.wikiloc.com/rutas-sendeirismo/pico-del-teide-ruta-042-130359967" target="_blank"><b>Del mar al cielo: ruta 042</b></a>
-    <br>
-    Hiking from Playa del Socorro (sea level) to Teide (3715 m), which is the highest Spanish mountain. Route: 42 km, 4000 m of elevation gain.
-    <br>
-    <em>Fun fact: the route is known as "042" or "0-4-2" because it goes from 0 m, to 4000+ m, and back to 2000 m of elevation.</em>
-    <!-- <br>
-    <img src="/assets/images/teide.jpeg" alt="Teide Team" style="width:230px">
-    <img src="/assets/images/teide2.jpg" alt="Teide views" style="width:230px"> -->
     </p>
   </li>
 
@@ -138,23 +118,6 @@ Below are some of my recent challenges.
     Bouldering competition - open format.
     </p>
   </li>
-
-<li>
-    <time datetime="2022-12-03">03-12-2022  08-12-2022</time>
-    <p><a href="https://agimenezromero.github.io/projects/sa-travessa/" target="_blank"><b>Sa Travessa, GR-221 (Ruta de la Pedra en Sec)</b></a>
-    <br>
-    Multi-day hiking through the Serra da Tramuntana (Mallorca). Route: 
-    day 1 <a href="https://gl.wikiloc.com/rutas-sendeirismo/sa-travessa-dia-1-6-calvia-esporles-120500091" target="_blank">(23 km, +835 m)</a> 
-    + day 2 <a href="https://gl.wikiloc.com/rutas-sendeirismo/sa-travessa-dia-2-6-esporles-deia-120602382" target="_blank">(22 km, +1290 m)</a> 
-    + day 3 <a href="https://es.wikiloc.com/rutas-senderismo/gr221-deia-tossals-120669697" target="_blank">(23 km, +1340 m)</a>  
-    + day 4 <a href="https://gl.wikiloc.com/rutas-sendeirismo/sa-travessa-dia-4-6-refugi-tossals-verds-refugi-son-amer-lluc-120742928" target="_blank">(16 km, +900 m)</a>  
-    + day 5 <a href="https://gl.wikiloc.com/rutas-sendeirismo/sa-travessa-dia-5-6-refugi-son-amer-lluc-refugi-pont-roma-pollenca-120804862" target="_blank">(18 km, +220 m)</a>  
-    + day 6 <a href="https://gl.wikiloc.com/rutas-sendeirismo/sa-travessa-dia-6-6-refugi-pont-roma-pollenca-port-de-pollenca-120840705" target="_blank">(7 km, +0 m)</a>.
-    <!-- <br>
-    <img src="/assets/images/satravessa.png" alt="Sa Travessa Team" style="width:500px"> -->
-    </p>
-  </li>
-
 
   <li>
     <time datetime="2022-05-03">03-05-2022</time>
