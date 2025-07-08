@@ -5,8 +5,6 @@ permalink: /about
 # author_profile: true
 ---
 
-Hi there, and welcome!
-
 I'm María — a physicist with a passion for complex systems and real-world problem solving.
 
 I studied Physics at the University of Santiago de Compostela, spending my final year as an exchange student at the University of Granada. It was there that I first discovered my interest in complex systems.

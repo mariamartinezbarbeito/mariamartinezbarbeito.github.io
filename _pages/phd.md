@@ -14,6 +14,9 @@ My research focused on the dynamics and stability of power grids in scenarios wi
 In September 2024, I successfully defended my [PhD thesis](https://ifisc.uib-csic.es/media/publications/publication/COFo6GcdQBmGDjL6RZW6_w.pdf) and was awarded the degree with the distinction <em>cum laude</em>.
 
 
+<img src="/assets/images/phd.jpeg" alt="My PhD thesis defense." style="width: 70%; height: auto; display: block; margin: 1em auto;">
+
+
 
 <h5>Main publications</h5>
 <ul>
@@ -72,3 +75,8 @@ In September 2024, I successfully defended my [PhD thesis](https://ifisc.uib-csi
 <h5>Achievements</h5>
 
 Chair (Jul 2023 - Feb 2024) and member (Apr 2022 - Feb 2024) of the Advisory Board of the Young Researchers of the Complex Systems Society ([yrCSS](https://yrcss.cssociety.org)). The Board is responsible for organizing the [warm-up](https://yrcss.cssociety.org/warm-up/) event prior to the annual international Conference on Complex Systems, as well as promoting collaboration among early-stage researchers and supporting other initiatives.
+
+
+
+
+

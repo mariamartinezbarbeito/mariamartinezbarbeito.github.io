@@ -19,8 +19,12 @@ I got into hiking during my PhD, thanks to my colleagues — who quickly became 
 <p>
   <em>I've never been this tired in my entire life.</em>
 </p>
-<img src="/assets/images/teide2.jpg" alt="Teide views" style="width:250px">
-<img src="/assets/images/teide.jpeg" alt="Teide Team" style="width:250px">
+
+<div style="display: flex; justify-content: center; gap: 1em; flex-wrap: wrap;">
+  <img src="/assets/images/teide2.jpg" alt="Teide views" style="width: 45%; height: auto;">
+  <img src="/assets/images/teide.jpeg" alt="Teide Team" style="width: 45%; height: auto;">
+</div>
+
 <p>
   <em>See <a href="https://gl.wikiloc.com/rutas-sendeirismo/pico-del-teide-ruta-042-130359967" target="_blank">Wikiloc route</a>.</em>
 </p>
@@ -89,7 +93,7 @@ I got into hiking during my PhD, thanks to my colleagues — who quickly became 
   </tbody>
 </table>
 
-<img src="/assets/images/satravessa.png" alt="Sa Travessa Team" style="width:500px">
+<img src="/assets/images/satravessa.png" alt="Sa Travessa Team" style="width: 80%; height: auto; display: block; margin: 1em auto;">
 
 <p>
   My friend Àlex (the guy on the right) made a <a href="https://agimenezromero.github.io/projects/sa-travessa/" target="_blank">project</a> about it.
