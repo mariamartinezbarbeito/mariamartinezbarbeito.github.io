@@ -7,11 +7,11 @@ permalink: /phd
 
 <!-- This is my PhD page: publications, talks, achievements -->
 
-My PhD journey began in November 2019, when I joined the Institute for Cross-Disciplinary Physics and Complex Systems ([IFISC](https://ifisc.uib-csic.es/en/)) in Mallorca, Spain, as a predoctoral researcher under the supervision of [Prof. Pere Colet](https://scholar.google.es/citations?user=7BDoa9YAAAAJ&hl=es&oi=ao) and [Prof. Damià Gomila](https://scholar.google.es/citations?user=f1lvcgcAAAAJ&hl=es).
+My PhD journey began in November 2019, when I joined the Institute for Cross-Disciplinary Physics and Complex Systems (<a href="https://ifisc.uib-csic.es/en/" target="_blank" rel="noopener">IFISC</a>) in Mallorca, Spain, as a predoctoral researcher under the supervision of <a href="https://scholar.google.es/citations?user=7BDoa9YAAAAJ&hl=es&oi=ao" target="_blank" rel="noopener">Prof. Pere Colet</a> and <a href="https://scholar.google.es/citations?user=f1lvcgcAAAAJ&hl=es" target="_blank" rel="noopener">Prof. Damià Gomila</a>.
 
-My research focused on the dynamics and stability of power grids in scenarios with a high share of renewable energies. I was initially particularly interested in modeling and analyzing islands' grids. Later, during a research stay at the [Electrical Energy Efficiency Group](https://etranselec.ch) (Switzerland) with [Prof. Philippe Jacquod](https://scholar.google.es/citations?user=LaIhRvEAAAAJ&hl=es&oi=ao), I expanded my work to include larger, continental-scale grids.
+My research focused on the dynamics and stability of power grids in scenarios with a high share of renewable energies. I was initially particularly interested in modeling and analyzing islands' grids. Later, during a research stay at the <a href="https://etranselec.ch" target="_blank" rel="noopener">Electrical Energy Efficiency Group</a> (Sion, Switzerland) with <a href="https://scholar.google.es/citations?user=LaIhRvEAAAAJ&hl=es&oi=ao" target="_blank" rel="noopener">Prof. Philippe Jacquod</a>, I expanded my work to include larger, continental-scale grids.
 
-In September 2024, I successfully defended my [PhD thesis](https://ifisc.uib-csic.es/media/publications/publication/COFo6GcdQBmGDjL6RZW6_w.pdf) and was awarded the degree with the distinction <em>cum laude</em>.
+In September 2024, I successfully defended my <a href="https://ifisc.uib-csic.es/media/publications/publication/COFo6GcdQBmGDjL6RZW6_w.pdf" target="_blank" rel="noopener">PhD thesis</a> and was awarded the degree with the distinction <em>cum laude</em>.
 
 
 <img src="/assets/images/phd.jpeg" alt="My PhD thesis defense." style="width: 70%; height: auto; display: block; margin: 1em auto;">
@@ -21,10 +21,10 @@ In September 2024, I successfully defended my [PhD thesis](https://ifisc.uib-csi
 <h5>Main publications</h5>
 <ul>
  <li>
-  M. Martínez-Barbeito, D. Gomila, P. Colet, J. Fritzsch, & P. Jacquod, . (2025). Transmission grid stability with large interregional power flows. <em>Physical Review Research</em>, vol. 7, no 1, p. 013137. DOI: 10.1103/PhysRevResearch.7.013137. <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013137" class="far fa-file-alt"></a> 
+  M. Martínez-Barbeito, D. Gomila, P. Colet, J. Fritzsch, & P. Jacquod, . (2025). Transmission grid stability with large interregional power flows. <em>Physical Review Research</em>, vol. 7, no 1, p. 013137. DOI: <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013137" target="_blank" rel="noopener">10.1103/PhysRevResearch.7.013137</a>.
   </li>
   <li>
-  M. Martínez-Barbeito, D. Gomila, & P. Colet. (2023). Dynamical Model for Power Grid Frequency Fluctuations: Application to Islands with High Penetration of Wind Generation. <em>IEEE Transactions on Sustainable Energy</em>, p. 1-10. DOI: 10.1109/TSTE.2022.3231975. <a href="https://ieeexplore.ieee.org/document/10015191" class="far fa-file-alt"></a> 
+  M. Martínez-Barbeito, D. Gomila, & P. Colet. (2023). Dynamical Model for Power Grid Frequency Fluctuations: Application to Islands with High Penetration of Wind Generation. <em>IEEE Transactions on Sustainable Energy</em>, p. 1-10. DOI: <a href="https://ieeexplore.ieee.org/document/10015191" target="_blank" rel="noopener">10.1109/TSTE.2022.3231975</a>.
   </li>
   <li>
   M. Martínez-Barbeito, D. Gomila, & P. Colet. (2021). Data analysis of frequency fluctuations in the Balearic grid before and after coal closure. <em>ENERGY 2021, The Eleventh International Conference on Smart Grids, Green Communications and IT Energy-aware Technologies, 2021</em>, p. 13-18. <a href="https://www.thinkmind.org/articles/energy_2021_2_10_38010.pdf" class="far fa-file-alt"></a> 
@@ -35,7 +35,7 @@ In September 2024, I successfully defended my [PhD thesis](https://ifisc.uib-csi
 <h5>Other publications</h5>
 <ul>
   <li>
-  D. Gomila, B.A. Carreras, J.M. Reynolds-Barredo, M. Martínez-Barbeito, P. Colet, & O. Gomis-Bellmunt. (2025). Reducing blackout risk by segmenting the European power grid with HVDC lines. <em>Journal of Modern Power Systems and Clean Energy</em>. DOI: 10.35833/MPCE.2024.000768. <a href="https://ieeexplore.ieee.org/document/10944521" class="far fa-file-alt"></a> 
+  D. Gomila, B.A. Carreras, J.M. Reynolds-Barredo, M. Martínez-Barbeito, P. Colet, & O. Gomis-Bellmunt. (2025). Reducing blackout risk by segmenting the European power grid with HVDC lines. <em>Journal of Modern Power Systems and Clean Energy</em>. DOI: <a href="https://ieeexplore.ieee.org/document/10944521" target="_blank" rel="noopener">10.35833/MPCE.2024.000768</a>.
   </li>
 </ul>
 
@@ -74,7 +74,7 @@ In September 2024, I successfully defended my [PhD thesis](https://ifisc.uib-csi
 
 <h5>Achievements</h5>
 
-Chair (Jul 2023 - Feb 2024) and member (Apr 2022 - Feb 2024) of the Advisory Board of the Young Researchers of the Complex Systems Society ([yrCSS](https://yrcss.cssociety.org)). The Board is responsible for organizing the [warm-up](https://yrcss.cssociety.org/warm-up/) event prior to the annual international Conference on Complex Systems, as well as promoting collaboration among early-stage researchers and supporting other initiatives.
+Chair (Jul 2023 - Feb 2024) and member (Apr 2022 - Feb 2024) of the Advisory Board of the Young Researchers of the Complex Systems Society (<a href="https://yrcss.cssociety.org" target="_blank" rel="noopener">yrCSS</a>). The Board is responsible for organizing the <a href="https://yrcss.cssociety.org/warm-up/" target="_blank" rel="noopener">warm-up event</a> prior to the annual international Conference on Complex Systems, as well as promoting collaboration among early-stage researchers and supporting other initiatives.
 
 
 

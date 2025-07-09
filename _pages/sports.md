@@ -29,7 +29,7 @@ Over the past few years, I've taken part in some sports competitions. They've be
 <ul class="dated-list">
   <li>
     <time datetime="2025-06-21">21-06-2025</time>
-    <p><a href="https:/https://webfcib.es/index.php/smartweb/inscripciones/prueba/31104-MEMORIAL-BERNAT-CAPO" target="_blank"><b>Memorial Bernat Capó</b></a> 
+    <p><a href="https:/https://webfcib.es/index.php/smartweb/inscripciones/prueba/31104-MEMORIAL-BERNAT-CAPO"  target="_blank" rel="noopener"><b>Memorial Bernat Capó</b></a> 
     <br>
     Cycling. Urban circuit: 15 laps of 1 km each.
     <!-- <br>
@@ -39,14 +39,14 @@ Over the past few years, I've taken part in some sports competitions. They've be
 
   <li>
     <time datetime="2025-04-25">25-04-2025</time>
-    <p><a href="https://mallorca312.com/es/" target="_blank"><b>Mallorca 312</b></a> 
+    <p><a href="https://mallorca312.com/es/"  target="_blank" rel="noopener"><b>Mallorca 312</b></a> 
     <br>
     Cycling. Route: 167 km, 2500 m elevation gain.</p>
   </li>
 
   <li>
     <time datetime="2025-03-02">02-03-2025</time>
-    <p><a href="https://www.elitechip.net/index.php?zwshow=compdet&idcomp=7349062&zwlng=es" target="_blank"><b>VI Duatló de Sineu 2025</b></a> 
+    <p><a href="https://www.elitechip.net/index.php?zwshow=compdet&idcomp=7349062&zwlng=es"  target="_blank" rel="noopener"><b>VI Duatló de Sineu 2025</b></a> 
     <br>
     Duathlon. Sprint distance - women's relay (bike leg).
     </p>
@@ -54,7 +54,7 @@ Over the past few years, I've taken part in some sports competitions. They've be
 
   <li>
     <time datetime="2025-01-19">19-01-2025</time>
-    <p><a href="https://www.elitechip.net/index.php?zwshow=compdet&idcomp=7251063&zwlng=es" target="_blank"><b>XVIII Duatló de Sa Pobla 2024</b></a>
+    <p><a href="https://www.elitechip.net/index.php?zwshow=compdet&idcomp=7251063&zwlng=es"  target="_blank" rel="noopener"><b>XVIII Duatló de Sa Pobla 2024</b></a>
     <br>
     Duathlon. Sprint distance - women's relay (bike leg).
     </p>
@@ -62,7 +62,7 @@ Over the past few years, I've taken part in some sports competitions. They've be
 
   <li>
     <time datetime="2024-09-08">08-09-2024</time>
-    <p><a href="https://www.elitechip.net/index.php?zwshow=compdet&idcomp=7011569&zwlng=es" target="_blank"><b>X Stellantis&You Port de Palma Triathlon Mallorca 2024</b></a>
+    <p><a href="https://www.elitechip.net/index.php?zwshow=compdet&idcomp=7011569&zwlng=es"  target="_blank" rel="noopener"><b>X Stellantis&You Port de Palma Triathlon Mallorca 2024</b></a>
     <br>
     Triathlon. Sprint distance - women's relay (bike leg).
     <br>
@@ -73,7 +73,7 @@ Over the past few years, I've taken part in some sports competitions. They've be
 
   <li>
     <time datetime="2024-09-01">01-09-2024</time>
-    <p><a href="https://www.elitechip.net/index.php?zwshow=compdet&idcomp=7200072" target="_blank"><b>XIV Triatló Sa Ràpita 2024</b></a>
+    <p><a href="https://www.elitechip.net/index.php?zwshow=compdet&idcomp=7200072"  target="_blank" rel="noopener"><b>XIV Triatló Sa Ràpita 2024</b></a>
     <br>
     Triathlon. Sprint distance - solo race.
     </p>
@@ -81,7 +81,7 @@ Over the past few years, I've taken part in some sports competitions. They've be
 
   <li>
     <time datetime="2024-07-20">20-07-2024</time>
-    <p><a href="https://elitechip.net/index.php?zwshow=compdet&idcomp=7229062" target="_blank"><b>Triatló Contra Rellotge per Equips 2024</b></a>
+    <p><a href="https://elitechip.net/index.php?zwshow=compdet&idcomp=7229062"  target="_blank" rel="noopener"><b>Triatló Contra Rellotge per Equips 2024</b></a>
     <br>
     Triathlon. Sprint distance - team time trials (TTT).
     </p>
@@ -89,7 +89,7 @@ Over the past few years, I've taken part in some sports competitions. They've be
 
   <li>
     <time datetime="2024-05-18">18-05-2024</time>
-    <p><a href="https://www.elitechip.net/index.php?zwshow=compdet&idcomp=7200071" target="_blank"><b>Triatló Ciutat d'Eivissa - Ct de Balears 2024</b></a>
+    <p><a href="https://www.elitechip.net/index.php?zwshow=compdet&idcomp=7200071"  target="_blank" rel="noopener"><b>Triatló Ciutat d'Eivissa - Ct de Balears 2024</b></a>
     <br>
     Triathlon. Sprint distance - solo race.
     </p>
@@ -97,7 +97,7 @@ Over the past few years, I've taken part in some sports competitions. They've be
 
   <li>
     <time datetime="2024-04-06">06-04-2024</time>
-    <p><a href="https://labolapuigmajor.com" target="_blank"><b>La Bola del Puig Major</b></a>
+    <p><a href="https://labolapuigmajor.com"  target="_blank" rel="noopener"><b>La Bola del Puig Major</b></a>
     <br>
     Cycling from Palma (45 m) to Puig Major (1445 m), which is the highest peak in Mallorca. Route: 90 km, 2000 m elevation gain.
     </p>
@@ -105,7 +105,7 @@ Over the past few years, I've taken part in some sports competitions. They've be
 
   <li>
     <time datetime="2024-03-17">17-03-2024</time>
-    <p><a href="https://www.elitechip.net/index.php?zwshow=compdet&idcomp=7200068&zwlng=es" target="_blank"><b>Duatló de Llucmajor - Ct de Balears 2024</b></a>
+    <p><a href="https://www.elitechip.net/index.php?zwshow=compdet&idcomp=7200068&zwlng=es"  target="_blank" rel="noopener"><b>Duatló de Llucmajor - Ct de Balears 2024</b></a>
     <br>
     Duathlon. Sprint distance - solo race.
     </p>
@@ -113,7 +113,7 @@ Over the past few years, I've taken part in some sports competitions. They've be
 
   <li>
     <time datetime="2023-03-04">04-03-2023</time>
-    <p><a href="https://www.instagram.com/esrocodrom/p/Cpa1TGOj-WB/?img_index=1" target="_blank"><b>esRocodrom - Only Women 2023</b></a>
+    <p><a href="https://www.instagram.com/esrocodrom/p/Cpa1TGOj-WB/?img_index=1"  target="_blank" rel="noopener"><b>esRocodrom - Only Women 2023</b></a>
     <br>
     Bouldering competition - open format.
     </p>
